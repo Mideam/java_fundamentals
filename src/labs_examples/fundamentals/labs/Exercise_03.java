@@ -15,16 +15,11 @@ public class Exercise_03 {
     public static void main(String[] args) {
 
         System.out.println("Hello World!");
-        System.out.println("Check out my first program!");
 
-        int x = 10;
-        int y = 12;
-        int z = x + y;
-
-        System.out.println(z);
 
         // write code to print out "Check out my first program!" below
 
+        System.out.println("Check out my first program!");
     }
 
 }
