@@ -29,7 +29,8 @@ public class Exercise_05 {
         System.out.println(equal);
         System.out.println(str3);
         System.out.println(search);
-        
+
+
     }
 
 
