@@ -19,11 +19,11 @@ public class Exercise_07 {
         // create scanner
         Scanner scanner = new Scanner(System.in);
         // prompt user
-        System.out.print("Enter a number in days between 1 and 1,000,000: ");
+        System.out.print("Enter a number in days between 1 and 1,000,000: 333 ");
         // assign input to variable as int
-        int days = scanner.nextInt();
+        int days = scanner.nextInt(333);
 
         // write completed code here
-
+        System.out.print(days);
     }
 }
